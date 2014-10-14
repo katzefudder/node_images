@@ -1,22 +1,6 @@
 {
 	"name": "katzefudder/node-images",
-	"description": "still to follow",
-	"minimum-stability": "stable",
-	"license": "proprietary",
-	"version": "1.0.0",
-	"authors": [
-		{
-			"name": "Florian Dehn",
-			"email": "flo@katzefudder.de"
-		}
-	],
-	"dist": {
-		"url": "git@github.com:katzefudder/node_images.git",
-		"type": "vcs"
-	},
-	"extra": {
-		"branch-alias": {
-			"master": "master"
-		}
-	}
+	"description": "Dependency graph visualization for composer.json",
+	"homepage": "https://katzefudder.io",
+	"license": "MIT",
 }
