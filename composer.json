@@ -4,7 +4,7 @@
 		"psr-0" : {
 			"katzefudder\\node_images" : "src"
 		}
-	}
+	},
 	"description": "Dependency graph visualization for composer.json",
 	"homepage": "https://katzefudder.io",
 	"license": "MIT",
