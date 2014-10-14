@@ -2,5 +2,24 @@
 	"name": "katzefudder/node_images",
 	"description": "Dependency graph visualization for composer.json",
 	"homepage": "https://katzefudder.io",
-	"license": "MIT"
+	"license": "MIT",
+	"repositories": [
+		{
+			"type": "package",
+			"package": {
+				"name": "katzefudder/node_images",
+				"version": "master",
+				"source": {
+					"url": "git@github.com:katzefudder/node_images.git",
+					"type": "git",
+					"reference": "master"
+				},
+				"autoload": {
+					"psr-0" : {
+						"katzefudder\\node_images" : "src"
+					}
+				}
+			}
+		}
+	]
 }
