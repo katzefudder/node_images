@@ -1,0 +1,12 @@
+{
+	"name": "katzefudder/node_images",
+	"description": "still to follow",
+	"minimum-stability": "stable",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Florian Dehn",
+			"email": "flo@katzefudder.de"
+		}
+	]
+}
