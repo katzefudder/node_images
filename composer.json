@@ -13,5 +13,10 @@
 	"dist": {
 		"url": "git@github.com:katzefudder/node_images.git",
 		"type": "vcs"
+	},
+	"extra": {
+		"branch-alias": {
+			"master": "master"
+		}
 	}
 }
