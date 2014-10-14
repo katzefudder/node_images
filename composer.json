@@ -2,5 +2,5 @@
 	"name": "katzefudder/node_images",
 	"description": "Dependency graph visualization for composer.json",
 	"homepage": "https://katzefudder.io",
-	"license": "MIT",
+	"license": "MIT"
 }
